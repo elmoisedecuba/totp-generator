@@ -29,7 +29,7 @@ function parseURLSearch(search) {
 new Vue({
   el: '#app',
   data: {
-    secret_key: 'JBSWY3DPEHPK3PXP',
+    secret_key: '',
     digits: 6,
     period: 30,
     updatingIn: 30,
